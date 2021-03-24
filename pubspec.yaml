@@ -1,0 +1,29 @@
+name: toko_buku
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/webmaster.jpeg
+    - assets/indesign.jpg
+    - assets/sketchup.jpeg
+    - assets/photoshop.jpg
+    - assets/max_3d.jpeg
+    - assets/premier.jpg
+    - assets/maya.jpeg
+    - assets/corel.jpg
+    - assets/drafter.jpg
